@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/OCheesy/static/js/main.5f68e8d0.chunk.js",
+    "main.js.map": "/OCheesy/static/js/main.5f68e8d0.chunk.js.map",
+    "runtime-main.js": "/OCheesy/static/js/runtime-main.11cad717.js",
+    "runtime-main.js.map": "/OCheesy/static/js/runtime-main.11cad717.js.map",
+    "static/js/2.420970a1.chunk.js": "/OCheesy/static/js/2.420970a1.chunk.js",
+    "static/js/2.420970a1.chunk.js.map": "/OCheesy/static/js/2.420970a1.chunk.js.map",
+    "static/js/3.dba62c3f.chunk.js": "/OCheesy/static/js/3.dba62c3f.chunk.js",
+    "static/js/3.dba62c3f.chunk.js.map": "/OCheesy/static/js/3.dba62c3f.chunk.js.map",
+    "index.html": "/OCheesy/index.html",
+    "static/js/2.420970a1.chunk.js.LICENSE.txt": "/OCheesy/static/js/2.420970a1.chunk.js.LICENSE.txt",
+    "static/media/Lassi.246b7057.jpeg": "/OCheesy/static/media/Lassi.246b7057.jpeg",
+    "static/media/LassiMangue .fcabb137.jpg": "/OCheesy/static/media/LassiMangue .fcabb137.jpg",
+    "static/media/MalaiTika.2ae22144.jpg": "/OCheesy/static/media/MalaiTika.2ae22144.jpg",
+    "static/media/featured3.66d68644.jpg": "/OCheesy/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/OCheesy/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/OCheesy/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/OCheesy/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/OCheesy/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/OCheesy/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/OCheesy/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/OCheesy/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11cad717.js",
+    "static/js/2.420970a1.chunk.js",
+    "static/js/main.5f68e8d0.chunk.js"
+  ]
+}
